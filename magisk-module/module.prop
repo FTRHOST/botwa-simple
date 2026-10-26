@@ -1,0 +1,7 @@
+id=whatsapp_bot
+name=WhatsApp Welcome Bot
+version=v1.0
+versionCode=1
+author=petwirkepo
+description=Bot WhatsApp welcome message - otomatis jalan saat boot (Magisk/KernelSU)
+updateJson=
